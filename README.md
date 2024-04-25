@@ -1,4 +1,4 @@
-# Mohamed Irfan
+# I'm, Mohamed Irfan!
 
 ## About Me
 
@@ -24,5 +24,5 @@ Here are some of the languages and tools I work with:
 
 You can find me on:
 
-- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/your_instagram_username)
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/your_linkedin_username)
+- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/__irf3nz.x_/)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/mohamedirfan03)
