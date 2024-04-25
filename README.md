@@ -19,10 +19,14 @@ Here are some of the languages and tools I work with:
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) Python
 - ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=JSON&logoColor=white) JSON
 - ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white) MariaDB
+- ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=WordPress&logoColor=white) WordPress
+- ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white) Figma
+
+### Connect with Me
 
 ### Connect with Me
 
 You can find me on:
 
 - [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/__irf3nz.x_/)
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/mohamedirfan03)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mohamedirfan03)
