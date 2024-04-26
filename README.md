@@ -22,8 +22,6 @@ Here are some of the languages and tools I work with:
 - ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 - ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-[Bootstrap](https://img.shields.io/badge/-Bootstrap-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
 ### Connect with Me
 
 You can find me on:
